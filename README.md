@@ -26,10 +26,6 @@ Como desafio complementar foi adicionado sessão de comentários utilizando Utte
 
 O projeto foi desenvolvido como desafio das aulas do modulo 03 do [Ignite da Rocketseat](https://rocketseat.com.br/)
 
-Link do [desafio](https://www.notion.so/Desafio-01-Criando-um-projeto-do-zero-b1a3645d286b4eec93f5f1f5476d0ff7)
-
-Link do [desafio complementar](https://www.notion.so/Desafio-02-Adicionando-features-ao-blog-d466866c02544c79bbada9717c033d0a)
-
 ---
 
 ## Tecnologias
@@ -65,7 +61,7 @@ Criar conta e configurar o serviço do Prismic CMS e Utterances:
 
 ```bash
 # Execute o comando git clone para realizar o clone do repositório
-$ git clone https://github.com/nelsonsantosaraujo/spacetraveling.git
+$ git clone https://github.com/Rodrigo-A-Rodrigues/Space-Traveling
 # Entre na pasta do repositório clonado
 $ cd spacetraveling
 ```
@@ -97,7 +93,7 @@ Distribuído sob a licença MIT. Veja [LICENSE](LICENSE) para mais informações
 
 ## Autor
 
-Feito por Nelson Araújo 👋🏽 Entre em contato!
+Feito por Rodrigo André Rodrigues 👋🏽 Entre em contato!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Nelson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/nelsonsantosaraujo/)
-[![Gmail Badge](https://img.shields.io/badge/-nelsonsantosaraujo@hotmail.com-red?style=flat-square&link=mailto:nelsonsantosaraujo@hotmail.com)](mailto:nelsonsantosaraujo@hotmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Nelson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-a-rodrigues/)](https://www.linkedin.com/in/rodrigo-a-rodrigues/)
+[![Gmail Badge](https://img.shields.io/badge/-nelsonsantosaraujo@hotmail.com-red?style=flat-square&link=mailto:rodrigorodrigues1807@gmail.com)](mailto:rodrigorodrigues1807@gmail.com)
