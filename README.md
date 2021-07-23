@@ -94,6 +94,3 @@ Distribuído sob a licença MIT. Veja [LICENSE](LICENSE) para mais informações
 ## Autor
 
 Feito por Rodrigo André Rodrigues 👋🏽 Entre em contato!
-
-[![Linkedin Badge](https://img.shields.io/badge/-Nelson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-a-rodrigues/)](https://www.linkedin.com/in/rodrigo-a-rodrigues/)
-[![Gmail Badge](https://img.shields.io/badge/-nelsonsantosaraujo@hotmail.com-red?style=flat-square&link=mailto:rodrigorodrigues1807@gmail.com)](mailto:rodrigorodrigues1807@gmail.com)
